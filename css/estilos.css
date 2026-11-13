@@ -128,28 +128,10 @@ text-align:center;
     padding:30px;
     
 }
-.footer-iconos {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 25px;
+footer{
+
 }
 
-.footer-iconos a {
-    display: inline-flex;
-    transition: transform 0.3s ease;
-}
-
-.footer-iconos a:hover {
-    transform: scale(1.2);
-    opacity: 0.8;
-}
-
-.footer-iconos svg {
-    width: 32px;
-    height: 32px;
-    cursor: pointer;
-}
 .contenedor-pie-pagina{
     text-align:left;
     line-height:30px;
